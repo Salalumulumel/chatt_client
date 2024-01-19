@@ -1,0 +1,27 @@
+body{
+    background-color: #FFCCCC;
+}
+
+
+#text {
+
+    background-color: #FFDDCC;
+    display: block;
+
+}
+
+#messages {
+    display: flex;
+    background-color: #FFCCCC;
+}
+
+#messagebox {
+    background-color: #FFEECC;
+    display: flex;
+    align-self: center;
+    padding-top: 35% ;
+    margin: 3%;
+    margin-left: 18%;
+    margin-right: 18%;
+    border-radius: 4%;
+}
